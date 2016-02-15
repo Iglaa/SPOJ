@@ -1,0 +1,1 @@
+print "Mundial #{"m".sum}"
